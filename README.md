@@ -1,0 +1,1 @@
+This repo contains a compact, hands-on Jupyter notebook (Energy_Analysis.ipynb) that explores the UCI Household Power Consumption dataset (2006–2010) and builds simple forecasts. It includes quick EDA, a SARIMAX baseline, and a Prophet model (daily averages) with evaluation and residual checks — great for a portfolio demo or interview walkthrough.
